@@ -1,5 +1,5 @@
 /* ==========================================================================
-   VC CONTRACTOR (VC PUNE) - RENOVATION, WATERPROOFING & MAINTENANCE SERVICES STYLESHEET
+   VC PUNE CONTRACTOR - RENOVATION, WATERPROOFING & MAINTENANCE SERVICES STYLESHEET
    Clean, Minimalist, Fast-Loading, Mobile-Optimized
    Contact: +91 91759 21246 | WhatsApp: +91 91759 21246 | vcpune.info@gmail.com
    ========================================================================== */
@@ -1603,7 +1603,9 @@ body.lang-devanagari .brand-title {
   }
 
   .brand-title {
-    font-size: 1.12rem;
+    font-size: 0.98rem;
+    white-space: nowrap;
+    letter-spacing: -0.01em;
   }
 
   .header-actions {
@@ -1653,7 +1655,9 @@ body.lang-devanagari .brand-title {
   }
 
   .brand-title {
-    font-size: 1.05rem;
+    font-size: 0.88rem;
+    white-space: nowrap;
+    letter-spacing: -0.02em;
   }
 
   .brand-logo-img {
@@ -1683,6 +1687,10 @@ body.lang-devanagari .brand-title {
 @media (max-width: 350px) {
   .top-loc span {
     font-size: 0.72rem;
+  }
+  .brand-title {
+    font-size: 0.80rem;
+    letter-spacing: -0.03em;
   }
   .lang-btn {
     padding: 2px 4px;

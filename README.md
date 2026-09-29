@@ -1,11 +1,12 @@
-# VC CONTRACTOR (VC PUNE) 🏢🔨
+# VC PUNE CONTRACTOR 🏢🔨
 ### Official Home Renovation, Waterproofing & Building Maintenance Portal
 
 > **Contact & Estimates**: Phone: **[+91 91759 21246](tel:+919175921246)** | WhatsApp: **[+91 91759 21246](https://wa.me/919175921246)**  
 > **Official Facebook**: [VC-PUNE on Facebook](https://www.facebook.com/people/VC-PUNE/100064082587874/)  
 > **Official Instagram**: [@viki_pune on Instagram](https://www.instagram.com/viki_pune/)  
 > **Official Email**: [vcpune.info@gmail.com](mailto:vcpune.info@gmail.com)  
-> **Google Maps Location**: [View Pune Location](https://maps.app.goo.gl/c7sedUc2dDDueVWq7)  
+> **Google Maps Location**: [View Pune Location](https://maps.app.goo.gl/RcjqBKXySUPAQXov6)  
+> **Service Coverage**: Within 15 Km range from main Pune location  
 > **Live GitHub Pages URL**: [https://pipoza-dev.github.io/vppuneconstruction.in/](https://pipoza-dev.github.io/vppuneconstruction.in/)  
 > **Clean Extensionless URLs**: No `.html` required in any page URL!
 
@@ -13,7 +14,7 @@
 
 ## 🌟 Business Overview
 
-**VC Contractor (VC Pune)** is a reliable on-site home renovation, waterproofing, plumbing and property maintenance contractor operating across Pune and PCMC. With over 15 years of practical field experience, the firm provides direct, trustworthy services for residential flats, commercial properties, and housing societies.
+**VC Pune Contractor** is a reliable on-site home renovation, waterproofing, plumbing and property maintenance contractor operating across Pune (providing service within a 15 km range from the main location). With over 15 years of practical field experience, the firm provides direct, trustworthy services for residential flats, commercial properties, and housing societies.
 
 ### Core Verticals & Services:
 1. **Bathroom & Home Renovation**: Complete bathroom modernization, CP fittings, sanitaryware, false ceilings, and apartment remodeling.
@@ -104,7 +105,7 @@ d:/Projects/VP PUNE CONSTRUCTION COMPANY/
 ├── main.js                     # Video Player Engine, Modal Lightbox, Share, Filter & Routing
 │
 ├── VC_Construction_LOGO.png    # Official High-Definition Company Logo
-├── VC_Pune_Banner.jpeg         # Official VC Contractor Pune Visiting Card & Banner
+├── VC_Pune_Banner.jpeg         # Official VC Pune Contractor Visiting Card & Banner
 ├── favicon.png                 # Browser Tab Icon (PNG format)
 ├── favicon.ico                 # Standard Root Favicon (ICO format)
 │
@@ -148,15 +149,15 @@ d:/Projects/VP PUNE CONSTRUCTION COMPANY/
 
 | Detail | Information |
 | :--- | :--- |
-| **Business Name** | VC Contractor (VC Pune) |
+| **Business Name** | VC Pune Contractor |
 | **Phone (Call)** | `+91 91759 21246` |
 | **WhatsApp Desk** | `+91 91759 21246` |
 | **Official Email** | `vcpune.info@gmail.com` |
 | **Facebook Page** | [VC-PUNE](https://www.facebook.com/people/VC-PUNE/100064082587874/) |
 | **Instagram Profile** | [@viki_pune](https://www.instagram.com/viki_pune/) |
-| **Location** | Pune & PCMC, Maharashtra ([Google Maps Link](https://maps.app.goo.gl/c7sedUc2dDDueVWq7)) |
+| **Location & Service Radius** | Pune & PCMC, Maharashtra ([Google Maps Link](https://maps.app.goo.gl/RcjqBKXySUPAQXov6)) • Service Provided Within 15 Km Range |
 | **Working Hours** | Open All 7 Days: 8:00 AM - 8:00 PM |
 
 ---
 
-*© 2026 VC Contractor (VC Pune). All Rights Reserved. Crafted by [PipoZa Dev](https://pipoza.s.gy/pipoza.in).*
+*© 2026 VC Pune Contractor. All Rights Reserved. Crafted by [PipoZa Dev](https://pipoza.s.gy/pipoza.in).*

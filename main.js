@@ -1,5 +1,5 @@
 /* ==========================================================================
-   VC CONTRACTOR (VC PUNE) - MAIN SCRIPT
+   VC PUNE CONTRACTOR - MAIN SCRIPT
    Minimalist, Ultra-Fast, Mobile Optimized
    Multilingual Engine (English, Hindi, Marathi)
    Device Default Auto-Theme
@@ -643,7 +643,7 @@
       if (modalSubtitle) modalSubtitle.textContent = item.sub;
 
       if (modalWaBtn) {
-        const query = encodeURIComponent(`Hi VC Contractor, I saw your work: "${item.title}" and want an estimate/quote.`);
+        const query = encodeURIComponent(`Hi VC Pune Contractor, I saw your work: "${item.title}" and want an estimate/quote.`);
         modalWaBtn.href = `https://wa.me/919175921246?text=${query}`;
       }
 
@@ -867,8 +867,8 @@
     if (modalShareBtn) {
       modalShareBtn.addEventListener('click', async () => {
         const item = mediaItems[currentIndex];
-        const shareTitle = item ? item.title : 'VC Contractor Pune Work';
-        const shareText = `Check out this renovation & waterproofing work by VC Contractor: ${shareTitle}`;
+        const shareTitle = item ? item.title : 'VC Pune Contractor Work';
+        const shareText = `Check out this renovation & waterproofing work by VC Pune Contractor: ${shareTitle}`;
         const shareUrl = window.location.href;
 
         if (navigator.share) {

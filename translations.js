@@ -1,5 +1,5 @@
 /* ==========================================================================
-   VC CONTRACTOR (VC PUNE) - MULTILINGUAL TRANSLATION DICTIONARY
+   VC PUNE CONTRACTOR - MULTILINGUAL TRANSLATION DICTIONARY
    Languages: English (Default), Hindi (हिंदी), Marathi (मराठी)
    ========================================================================== */
 
@@ -8,8 +8,8 @@ const translations = {
     // Top Bar & Header
     "top_location": "Pune, Maharashtra",
     "top_timing": "Open All 7 Days: 8:00 AM - 8:00 PM",
-    "brand_title": "VC Pune",
-    "footer_brand_title": "VC Contractor (VC Pune)",
+    "brand_title": "VC Pune Contractor",
+    "footer_brand_title": "VC Pune Contractor",
     "brand_tagline": "Renovation, Waterproofing & Maintenance • Pune",
     "nav_home": "Home",
     "nav_about": "About Us",
@@ -24,7 +24,7 @@ const translations = {
     // Hero Section
     "hero_badge": "Reliable Renovation & Maintenance in Pune",
     "hero_title": "Bathroom & Home Renovation, Waterproofing & Plumbing",
-    "hero_sub": "VC Contractor delivers dependable home renovation, waterproofing, plumbing and maintenance services across Pune. From complete bathroom remodeling, leak-proof waterproofing and chemical coatings to wall/floor tiling, demolition and society AMC maintenance.",
+    "hero_sub": "VC Pune Contractor delivers dependable home renovation, waterproofing, plumbing and maintenance services across Pune. From complete bathroom remodeling, leak-proof waterproofing and chemical coatings to wall/floor tiling, demolition and society AMC maintenance.",
     "hero_call_btn": "Call: +91 91759 21246",
     "hero_wa_btn": "WhatsApp: +91 91759 21246",
     "feat_free_inspection": "Free On-Site Inspection",
@@ -213,23 +213,23 @@ const translations = {
     "btn_send_email": "Send Email",
     "btn_visit_facebook": "Visit Facebook",
     "btn_visit_instagram": "Visit Instagram",
-    "coverage_title": "Pune & PCMC Municipal Corporation",
-    "coverage_desc": "Serving all neighborhoods: Kothrud, Baner, Shivajinagar, Kharadi, Hinjawadi, Kalyani Nagar, Viman Nagar, Aundh, Hadapsar, and PCMC.",
+    "coverage_title": "Official Location & Service Area",
+    "coverage_desc": "Service is provided within a 15 km range from our main Pune location. Covering all surrounding neighborhoods, residential societies, and commercial properties.",
     "btn_open_maps": "Open Official Location on Google Maps",
 
     // Page Specific: About
     "about_header_tag": "Who We Are",
-    "about_header_title": "About VC Contractor (VC Pune)",
+    "about_header_title": "About VC Pune Contractor",
     "about_header_desc": "Dedicated renovation, waterproofing and maintenance specialists serving homeowners, commercial buildings, and housing societies across Pune.",
     "about_story_badge": "Solid On-Site Experience",
     "about_story_title": "15+ Years of Honest Contracting & Renovation in Pune",
-    "about_story_p1": "VC Contractor (VC Pune) is a trusted, ground-level renovation and property maintenance team based in Pune, Maharashtra. We specialize in resolving real, everyday home challenges — from nagging terrace and bathroom water leakages to complete flat renovations, plumbing, tiling, and demolition.",
+    "about_story_p1": "VC Pune Contractor is a trusted, ground-level renovation and property maintenance team based in Pune, Maharashtra. We specialize in resolving real, everyday home challenges — from nagging terrace and bathroom water leakages to complete flat renovations, plumbing, tiling, and demolition.",
     "about_story_p2": "Unlike large intermediaries who inflate prices and outsource work, we manage our projects directly with seasoned on-site mistris, certified plumbers, and waterproofing specialists. We use standard branded chemicals (Dr. Fixit, Fosroc, Sika, Asian Paints) to ensure 100% long-lasting quality.",
     "about_feat_1": "Direct On-Site Supervision",
     "about_feat_2": "Genuine Branded Materials",
     "about_feat_3": "Clear Itemized Estimation",
     "about_feat_4": "Clean Debris Disposal",
-    "about_covering_areas": "Covering Baner, Kothrud, Kharadi, Hinjawadi & All Pune",
+    "about_covering_areas": "Service Provided Within 15 Km Range Across Pune",
     "about_guarantees_tag": "Our Guarantees",
     "about_guarantees_title": "How We Handle Every Job",
     "about_guarantees_desc": "Practical, transparent, and hassle-free renovation and maintenance work from start to finish.",
@@ -256,7 +256,7 @@ const translations = {
 
     // Page Specific: Contact
     "contact_page_tag": "Direct Lines",
-    "contact_page_title": "Contact VC Contractor Directly",
+    "contact_page_title": "Contact VC Pune Contractor Directly",
     "contact_page_desc": "No forms or delays. Tap below to call our supervisor directly or chat with us on WhatsApp for free site visits and quick cost estimates.",
 
     // Page Specific: 404
@@ -268,7 +268,7 @@ const translations = {
     "footer_brand_desc": "Professional renovation and maintenance contractor in Pune specializing in bathroom & home renovation, plumbing, waterproofing, chemical coating, tiles wall & floor, demolition and society AMC maintenance.",
     "footer_our_services": "Our Services",
     "footer_quick_contact": "Quick Contact",
-    "footer_copyright": "© 2026 VC Contractor (VC Pune). All Rights Reserved.",
+    "footer_copyright": "© 2026 VC Pune Contractor. All Rights Reserved.",
     "footer_crafted": "Crafted by",
 
     // Mobile Dock
@@ -281,8 +281,8 @@ const translations = {
     // Top Bar & Header
     "top_location": "पुणे, महाराष्ट्र",
     "top_timing": "सातों दिन खुला: सुबह 8:00 से रात 8:00",
-    "brand_title": "वीसी पुणे",
-    "footer_brand_title": "वीसी कांट्रेक्टर (VC Pune)",
+    "brand_title": "वीसी पुणे कॉन्ट्रैक्टर",
+    "footer_brand_title": "वीसी पुणे कॉन्ट्रैक्टर",
     "brand_tagline": "नवीनीकरण, वॉटरप्रूफिंग व मेंटेनेंस • पुणे",
     "nav_home": "होम",
     "nav_about": "हमारे बारे में",
@@ -297,7 +297,7 @@ const translations = {
     // Hero Section
     "hero_badge": "पुणे में भरोसेमंद नवीनीकरण व मेंटेनेंस ठेकेदार",
     "hero_title": "बाथरूम व घर नवीनीकरण, वॉटरप्रूफिंग व प्लंबिंग",
-    "hero_sub": "वीसी कांट्रेक्टर पूरे पुणे में भरोसेमंद घर नवीनीकरण, वॉटरप्रूफिंग, प्लंबिंग और मेंटेनेंस सेवाएं प्रदान करता है। संपूर्ण बाथरूम नवीनीकरण, वॉटरप्रूफिंग, केमिकल कोटिंग, टाइल फिटिंग, डिमोलिशन और हाउसिंग सोसायटी एएमसी मेंटेनेंस।",
+    "hero_sub": "वीसी पुणे कॉन्ट्रैक्टर पूरे पुणे में भरोसेमंद घर नवीनीकरण, वॉटरप्रूफिंग, प्लंबिंग और मेंटेनेंस सेवाएं प्रदान करता है। संपूर्ण बाथरूम नवीनीकरण, वॉटरप्रूफिंग, केमिकल कोटिंग, टाइल फिटिंग, डिमोलिशन और हाउसिंग सोसायटी एएमसी मेंटेनेंस।",
     "hero_call_btn": "कॉल करें: +91 91759 21246",
     "hero_wa_btn": "व्हाट्सएप: +91 91759 21246",
     "feat_free_inspection": "मुफ्त ऑन-साइट निरीक्षण",
@@ -486,23 +486,23 @@ const translations = {
     "btn_send_email": "ईमेल भेजें",
     "btn_visit_facebook": "फेसबुक देखें",
     "btn_visit_instagram": "इंस्टाग्राम देखें",
-    "coverage_title": "पुणे व पिंपरी चिंचवड महानगरपालिका क्षेत्र",
-    "coverage_desc": "सभी प्रमुख क्षेत्र: कोथरुड, बानेर, शिवाजीनगर, खराडी, हिंजेवाड़ी, कल्याणी नगर, विमान नगर, औंध, हड़पसर व पीसीएमसी।",
+    "coverage_title": "आधिकारिक लोकेशन और सेवा क्षेत्र",
+    "coverage_desc": "हमारी मुख्य लोकेशन से 15 किमी के दायरे में सेवा प्रदान की जाती है। सभी नजदीकी सोसायटियों, आवासीय और व्यावसायिक क्षेत्रों में उपलब्ध।",
     "btn_open_maps": "गूगल मैप्स पर लोकेशन देखें",
 
     // Page Specific: About
     "about_header_tag": "हम कौन हैं",
-    "about_header_title": "वीसी कांट्रेक्टर (VC Pune) के बारे में",
+    "about_header_title": "वीसी पुणे कॉन्ट्रैक्टर के बारे में",
     "about_header_desc": "पुणे में घर के मालिकों, सोसायटियों और व्यावसायिक इमारतों के लिए विश्वसनीय नवीनीकरण, वॉटरप्रूफिंग व मेंटेनेंस विशेषज्ञ।",
     "about_story_badge": "ठोस ऑन-साइट अनुभव",
     "about_story_title": "पुणे में 15+ वर्षों से ईमानदार नवीनीकरण व मेंटेनेंस सेवाएं",
-    "about_story_p1": "वीसी कांट्रेक्टर (VC Pune) पुणे, महाराष्ट्र की एक विश्वसनीय नवीनीकरण और मेंटेनेंस टीम है। हम रोजमर्रा की घर की समस्याओं — जैसे छत और बाथरूम के पानी के रिसाव से लेकर फ्लैटों के संपूर्ण नवीनीकरण, प्लंबिंग, टाइलिंग और डिमोलिशन तक का समाधान करते हैं।",
+    "about_story_p1": "वीसी पुणे कॉन्ट्रैक्टर पुणे, महाराष्ट्र की एक विश्वसनीय नवीनीकरण और मेंटेनेंस टीम है। हम रोजमर्रा की घर की समस्याओं — जैसे छत और बाथरूम के पानी के रिसाव से लेकर फ्लैटों के संपूर्ण नवीनीकरण, प्लंबिंग, टाइलिंग और डिमोलिशन तक का समाधान करते हैं।",
     "about_story_p2": "हम किसी तीसरे पक्ष को काम नहीं सौंपते, बल्कि अपने अनुभवी मिस्त्रियों, प्रमाणित प्लंबरों और वॉटरप्रूफिंग विशेषज्ञों के साथ सीधे काम करते हैं। टिकाऊ गुणवत्ता के लिए हम Dr. Fixit, Fosroc, Sika, Asian Paints जैसे ब्रांडेड रसायनों का उपयोग करते हैं।",
     "about_feat_1": "प्रत्यक्ष ऑन-साइट देखरेख",
     "about_feat_2": "असली ब्रांडेड निर्माण सामग्री",
     "about_feat_3": "स्पष्ट मदवार कोटेशन",
     "about_feat_4": "मलबे का साफ-सुथरा निस्तारण",
-    "about_covering_areas": "बानेर, कोथरुड, खराडी, हिंजेवाड़ी व पूरे पुणे में सेवा",
+    "about_covering_areas": "मुख्य लोकेशन से 15 किमी के दायरे में सेवा उपलब्ध",
     "about_guarantees_tag": "हमारी गारंटी",
     "about_guarantees_title": "हम प्रत्येक कार्य कैसे करते हैं",
     "about_guarantees_desc": "शुरुआत से लेकर काम पूरा होने तक व्यावहारिक, पारदर्शी और तनाव-मुक्त कार्य।",
@@ -529,7 +529,7 @@ const translations = {
 
     // Page Specific: Contact
     "contact_page_tag": "सीधी हेल्पलाइन",
-    "contact_page_title": "वीसी कांट्रेक्टर से सीधे संपर्क करें",
+    "contact_page_title": "वीसी पुणे कॉन्ट्रैक्टर से सीधे संपर्क करें",
     "contact_page_desc": "कोई फॉर्म या देरी नहीं। मुफ्त साइट विजिट और तुरंत लागत अनुमान के लिए सीधे कॉल करें या व्हाट्सएप पर मैसेज करें।",
 
     // Page Specific: 404
@@ -541,7 +541,7 @@ const translations = {
     "footer_brand_desc": "पुणे में स्थित भरोसेमंद नवीनीकरण व मेंटेनेंस कांट्रेक्टर। बाथरूम व घर नवीनीकरण, प्लंबिंग, वॉटरप्रूफिंग, केमिकल कोटिंग, टाइल फिटिंग, डिमोलिशन और सोसायटी एएमसी कार्य।",
     "footer_our_services": "हमारी सेवाएं",
     "footer_quick_contact": "त्वरित संपर्क",
-    "footer_copyright": "© 2026 वीसी कांट्रेक्टर (VC Pune). सर्वाधिकार सुरक्षित।",
+    "footer_copyright": "© 2026 वीसी पुणे कॉन्ट्रैक्टर. सर्वाधिकार सुरक्षित।",
     "footer_crafted": "डिज़ाइन व विकसित:",
 
     // Mobile Dock
@@ -554,8 +554,8 @@ const translations = {
     // Top Bar & Header
     "top_location": "पुणे, महाराष्ट्र",
     "top_timing": "आठवड्याचे सर्व 7 दिवस: सकाळी 8:00 ते रात्री 8:00",
-    "brand_title": "व्हीसी पुणे",
-    "footer_brand_title": "व्हीसी कॉन्ट्रॅक्टर (VC Pune)",
+    "brand_title": "व्हीसी पुणे कॉन्ट्रॅक्टर",
+    "footer_brand_title": "व्हीसी पुणे कॉन्ट्रॅक्टर",
     "brand_tagline": "नूतनीकरण, वॉटरप्रूफिंग व देखभाल सेवा • पुणे",
     "nav_home": "मुख्यपृष्ठ",
     "nav_about": "आमच्याबद्दल",
@@ -570,7 +570,7 @@ const translations = {
     // Hero Section
     "hero_badge": "पुण्यातील विश्वसनीय नूतनीकरण व देखभाल सेवा",
     "hero_title": "बाथरूम आणि घर नूतनीकरण, वॉटरप्रूफिंग आणि प्लंबिंग",
-    "hero_sub": "व्हीसी कॉन्ट्रॅक्टर संपूर्ण पुण्यात दर्जेदार घर नूतनीकरण, वॉटरप्रूफिंग, प्लंबिंग व देखभाल सेवा पुरवते. संपूर्ण बाथरूम नूतनीकरण, वॉटरप्रूफिंग, केमिकल कोटिंग, फरशी/टाइल बसवणे, तोडफोड कामे आणि सोसायटी एएमसी देखभाल.",
+    "hero_sub": "व्हीसी पुणे कॉन्ट्रॅक्टर संपूर्ण पुण्यात दर्जेदार घर नूतनीकरण, वॉटरप्रूफिंग, प्लंबिंग व देखभाल सेवा पुरवते. संपूर्ण बाथरूम नूतनीकरण, वॉटरप्रूफिंग, केमिकल कोटिंग, फरशी/टाइल बसवणे, तोडफोड कामे आणि सोसायटी एएमसी देखभाल.",
     "hero_call_btn": "कॉल करा: +91 91759 21246",
     "hero_wa_btn": "व्हॉट्सॲप: +91 91759 21246",
     "feat_free_inspection": "मोफत ऑन-साइट पाहणी व अंदाज",
@@ -759,23 +759,23 @@ const translations = {
     "btn_send_email": "ईमेल पाठवा",
     "btn_visit_facebook": "फेसबुक पहा",
     "btn_visit_instagram": "इंस्टाग्राम पहा",
-    "coverage_title": "पुणे व पिंपरी चिंचवड महानगरपालिका कार्यक्षेत्र",
-    "coverage_desc": "सर्व प्रमुख परिसर: कोथरूड, बाणेर, शिवाजीनगर, खराडी, हिंजवडी, कल्याणी नगर, विमान नगर, औंध, हडपसर आणि पीसीएमसी.",
+    "coverage_title": "अधिकृत लोकेशन आणि कार्यक्षेत्र",
+    "coverage_desc": "आमच्या मुख्य लोकेशनपासून 15 किमी परिसरामध्ये सेवा पुरवली जाते. सर्व आजूबाजूच्या सोसायट्या, निवासी आणि व्यावसायिक ठिकाणांसाठी उपलब्ध.",
     "btn_open_maps": "गुगल मॅपवर लोकेशन पहा",
 
     // Page Specific: About
     "about_header_tag": "आम्ही कोण आहोत",
-    "about_header_title": "व्हीसी कॉन्ट्रॅक्टर (VC Pune) बद्दल",
+    "about_header_title": "व्हीसी पुणे कॉन्ट्रॅक्टर बद्दल",
     "about_header_desc": "पुण्यातील घरमालक, सोसायट्या आणि व्यावसायिक संकुलांसाठी समर्पित नूतनीकरण, वॉटरप्रूफिंग व देखभाल तज्ज्ञ.",
     "about_story_badge": "दांडगा प्रत्यक्ष कामाचा अनुभव",
     "about_story_title": "पुण्यात 15+ वर्षांपासून प्रामाणिक नूतनीकरण व देखभाल सेवा",
-    "about_story_p1": "व्हीसी कॉन्ट्रॅक्टर (VC Pune) ही पुणे, महाराष्ट्रातील एक विश्वासार्ह नूतनीकरण आणि देखभाल टीम आहे. आम्ही घरातील समस्या सोडवतो — जसे की गच्ची व बाथरूममधील पाण्याची गळती, संपूर्ण फ्लॅट नूतनीकरण, प्लंबिंग, फरशी बसवणे आणि तोडफोड कामे.",
+    "about_story_p1": "व्हीसी पुणे कॉन्ट्रॅक्टर ही पुणे, महाराष्ट्रातील एक विश्वासार्ह नूतनीकरण आणि देखभाल टीम आहे. आम्ही घरातील समस्या सोडवतो — जसे की गच्ची व बाथरूममधील पाण्याची गळती, संपूर्ण फ्लॅट नूतनीकरण, प्लंबिंग, फरशी बसवणे आणि तोडफोड कामे.",
     "about_story_p2": "आम्ही कोणतेही काम त्रयस्थ पक्षाला सोपवत नाही, तर आमच्या अनुभवी गवंडी, प्रमाणित प्लंबर आणि वॉटरप्रूफिंग तज्ज्ञांच्या प्रत्यक्ष उपस्थितीत काम करून घेतो. दर्जेदार कामासाठी आम्ही Dr. Fixit, Fosroc, Sika, Asian Paints अशा नामांकित साहित्याचा वापर करतो.",
     "about_feat_1": "प्रत्यक्ष जागेवर देखरेख",
     "about_feat_2": "अस्सल नामांकित साहित्य",
     "about_feat_3": "स्पष्ट आणि पारदर्शक दरपत्रक",
     "about_feat_4": "मलब्याची योग्य विल्हेवाट",
-    "about_covering_areas": "बाणेर, कोथरूड, खराडी, हिंजवडी व संपूर्ण पुणे परिसर",
+    "about_covering_areas": "मुख्य लोकेशनपासून 15 किमी परिसरामध्ये सेवा उपलब्ध",
     "about_guarantees_tag": "आमची खात्री",
     "about_guarantees_title": "आम्ही प्रत्येक काम कसे करतो",
     "about_guarantees_desc": "कामाच्या सुरुवातीपासून शेवटपर्यंत प्रामाणिक, पारदर्शक आणि विश्वासार्ह काम.",
@@ -802,7 +802,7 @@ const translations = {
 
     // Page Specific: Contact
     "contact_page_tag": "थेट संपर्क",
-    "contact_page_title": "व्हीसी कॉन्ट्रॅक्टरशी थेट संपर्क साधा",
+    "contact_page_title": "व्हीसी पुणे कॉन्ट्रॅक्टरशी थेट संपर्क साधा",
     "contact_page_desc": "कोणताही फॉर्म नाही आणि विलंब नाही. मोफत जागेची पाहणी आणि त्वरित अंदाजासाठी थेट कॉल करा किंवा व्हॉट्सॲपवर मेसेज करा.",
 
     // Page Specific: 404
@@ -814,7 +814,7 @@ const translations = {
     "footer_brand_desc": "पुण्यातील व्यावसायिक नूतनीकरण व देखभाल कंत्राटदार. बाथरूम व घर नूतनीकरण, प्लंबिंग, वॉटरप्रूफिंग, केमिकल कोटिंग, फरशी बसवणे, तोडफोड कामे आणि सोसायटी एएमसी देखभाल.",
     "footer_our_services": "आमच्या सेवा",
     "footer_quick_contact": "त्वरित संपर्क",
-    "footer_copyright": "© 2026 व्हीसी कॉन्ट्रॅक्टर (VC Pune). सर्व हक्क राखीव.",
+    "footer_copyright": "© 2026 व्हीसी पुणे कॉन्ट्रॅक्टर. सर्व हक्क राखीव.",
     "footer_crafted": "डिझाईन व निर्मिती:",
 
     // Mobile Dock
